@@ -1,5 +1,1 @@
-crewai
-crewai_tools
-anthropic
-litellm
-langchain_community
+jupyterlab
