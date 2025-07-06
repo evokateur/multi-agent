@@ -1,1 +1,11 @@
 jupyterlab
+crewai
+langchain
+langchain_community
+openai
+boto3
+python-docx
+langchain_aws
+crewai_tools
+anthropic
+litellm
