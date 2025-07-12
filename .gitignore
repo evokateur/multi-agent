@@ -54,3 +54,6 @@ coverage.xml
 
 # ignore pycache
 **/__pycache__/
+
+.ipynb_checkpoints
+db
